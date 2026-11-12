@@ -202,3 +202,16 @@ Overall, the project demonstrates how data analytics can support business unders
 **Project Domain:** E-Commerce Analytics  
 **Tools:** Microsoft Power BI | Power Query | DAX  
 **Analysis Type:** Descriptive, Diagnostic & Prescriptive Analytics
+## Dashboard Screenshots
+
+### 1. E-Commerce Sales Overview
+
+![Sales Overview](01_Sales_Overview.png)
+
+### 2. Customer & Product Analysis
+
+![Customer and Product Analysis](02_Customer_Product_Analysis.png)
+
+### 3. Payments & Returns Analysis
+
+![Payments and Returns Analysis](03_Payments_Returns_Analysis.png)
